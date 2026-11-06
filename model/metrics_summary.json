@@ -1,0 +1,57 @@
+[
+  {
+    "ML Model Name": "Logistic Regression",
+    "Accuracy": 0.8207,
+    "AUC": 0.903,
+    "Precision": 0.8056,
+    "Recall": 0.6866,
+    "F1": 0.7413,
+    "MCC": 0.61,
+    "Training Time (s)": 0.37,
+    "Artifact Size (MB)": 0.0
+  },
+  {
+    "ML Model Name": "Decision Tree",
+    "Accuracy": 0.8413,
+    "AUC": 0.9127,
+    "Precision": 0.8072,
+    "Recall": 0.7569,
+    "F1": 0.7812,
+    "MCC": 0.6578,
+    "Training Time (s)": 0.18,
+    "Artifact Size (MB)": 0.02
+  },
+  {
+    "ML Model Name": "KNN",
+    "Accuracy": 0.8163,
+    "AUC": 0.8879,
+    "Precision": 0.7658,
+    "Recall": 0.7337,
+    "F1": 0.7494,
+    "MCC": 0.6049,
+    "Training Time (s)": 0.01,
+    "Artifact Size (MB)": 7.05
+  },
+  {
+    "ML Model Name": "Naive Bayes",
+    "Accuracy": 0.6487,
+    "AUC": 0.8269,
+    "Precision": 0.518,
+    "Recall": 0.8825,
+    "F1": 0.6528,
+    "MCC": 0.3939,
+    "Training Time (s)": 0.04,
+    "Artifact Size (MB)": 0.0
+  },
+  {
+    "ML Model Name": "Support Vector Machine",
+    "Accuracy": 0.837,
+    "AUC": 0.9136,
+    "Precision": 0.8288,
+    "Recall": 0.7115,
+    "F1": 0.7657,
+    "MCC": 0.6462,
+    "Training Time (s)": 140.31,
+    "Artifact Size (MB)": 3.18
+  }
+]
