@@ -144,9 +144,7 @@ streamlit run app.py
 
 ---
 
-## Deployment on Streamlit Community Cloud
-1. Push the updated repository to GitHub: `https://github.com/kameswarasastry59-max/Hotel_Booking_Demand`
-2. Navigate to [Streamlit Community Cloud](https://streamlit.io/cloud) and sign in with GitHub.
-3. Click **"New App"**, select the `Hotel_Booking_Demand` repository and `main` branch.
-4. Specify `app.py` as the Main file path.
-5. Click **"Deploy"**. The app will be live and publicly accessible.
+## Deployment on Streamlit Cloud
+
+The interactive web application is deployed and publicly accessible on Streamlit Cloud at the following live link:
+https://kameswarasastry59-max-hotel-booking-demand-app-dvejoz.streamlit.app/
