@@ -2,7 +2,7 @@
 Hotel Booking Demand Prediction & Model Evaluation Dashboard
 BITS Pilani - Work Integrated Learning Programmes Division
 M.Tech (AIML) - Machine Learning Assignment 2
-Author: WILP M.Tech Student
+Author: Gandikota Kameswara Sastry
 """
 
 import os
